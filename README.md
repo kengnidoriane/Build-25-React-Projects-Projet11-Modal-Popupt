@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Project 11: Modal Popup
+
+Popups can be used for alert messages, confirmation requests, promotional banners, disconnection notifications and many more in our projects.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
